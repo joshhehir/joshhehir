@@ -1,5 +1,5 @@
 ### About Me
-- Associate Product Manager at [Qoria Limited](https://qoria.com/)
+- Senior QA Engineer at [Qoria Limited](https://qoria.com/)
 - My [Linkedin](https://www.linkedin.com/in/josh-hehir-7176a1190/)
 
 ### Hobbies
